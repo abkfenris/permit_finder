@@ -1,0 +1,18 @@
+permits:
+- section: 1782381139
+  start: 7/1/2017
+  end: 8/1/2017
+  group_size: 8
+- section: 523907650
+  start: 6/1/2017
+  end: 8/1/2017
+  group_size: 8
+- section: 523907650
+  start: 9/1/2017
+  end: 10/1/2017
+  group_size: 4
+- section: 523907650
+  start: 1/1/2017
+  end: 4/1/2017
+  group_size: 4
+sleep_time: 900 # 15 min in seconds
